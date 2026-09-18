@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,55:2B120D,100:D97706&height=220&section=header&text=Sarthak%20Rai&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student%20%E2%80%A2%20Building%20the%20next%20lap&descAlignY=58&descSize=17&animation=fadeIn" alt="Sarthak Rai — Computer Science and AI student" width="100%" />
+  <img src="https://i.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpgtype=waving&color=0:0B0B0F,55:2B120D,100:D97706&height=220&section=header&text=Sarthak%20Rai&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student%20%E2%80%A2%20Building%20the%20next%20lap&descAlignY=58&descSize=17&animation=fadeIn" alt="Sarthak Rai — Computer Science and AI student" width="100%" />
 
   <a href="https://www.linkedin.com/in/sarthak-rai-402718419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.codechef.com/users/asuna_647"><img src="https://img.shields.io/badge/CodeChef-5B3924?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>

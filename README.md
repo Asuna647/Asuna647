@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/93/8c/7b/938c7bf5314b5fd83691293c25f12756.jpg" alt="Sarthak Rai — Computer Science and AI student" width="100%" />
+  <img src="https://w.wallhaven.cc/full/21/wallhaven-21y12g.png" alt="Sarthak Rai — Computer Science and AI student" width="100%" />
 
   <a href="https://www.linkedin.com/in/sarthak-rai-402718419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.codechef.com/users/asuna_647"><img src="https://img.shields.io/badge/CodeChef-5B3924?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
